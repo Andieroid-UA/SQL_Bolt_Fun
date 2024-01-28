@@ -1,5 +1,5 @@
- 		
---SQL Lesson 7_OUTER JOINs
+		
+--SQL Lesson 12_Order of execution of a Query
 -------------------------------------------
 
 --1. 

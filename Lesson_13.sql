@@ -1,5 +1,5 @@
- 		
---SQL Lesson 7_OUTER JOINs
+		
+--SQL Lesson 13_Inserting rows
 -------------------------------------------
 
 --1. 

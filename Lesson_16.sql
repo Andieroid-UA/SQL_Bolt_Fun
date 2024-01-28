@@ -1,5 +1,5 @@
- 		
---SQL Lesson 7_OUTER JOINs
+		
+--SQL Lesson 16_Creating tables
 -------------------------------------------
 
 --1. 
